@@ -8,7 +8,7 @@
 //Em seguida, mostre os elementos do vetor com valor par
 
 
-//Usando de Função:
+//Usando função:
 
 int indiceValorPar (int vet[], int tamanho, int *indicePar, int *elementosPar)
 {
